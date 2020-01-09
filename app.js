@@ -3,19 +3,6 @@ d3.json("samples.json").then((importedData) => {
     console.log(importedData);
     var data = importedData
     
-    data.sort(function(a, b) {
-        return 
-    }
-
-
-
-
-
-
-
-
-
-
-
-
+    // data.sort(function(a, b) {
+    //     return 
 });
