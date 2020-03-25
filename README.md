@@ -1,4 +1,4 @@
-# Plot.ly Homework - Belly Button Biodiversity
+# Belly Button Biodiversity Dashboard
 
 ![pic of bacteria](Images/bacteria.jpg)
 
